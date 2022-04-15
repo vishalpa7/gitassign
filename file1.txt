@@ -1,2 +1,3 @@
 updated and commited in file1
 modified line in file1
+inside Bugfix branch-file1
