@@ -1,1 +1,2 @@
 updated and commited in file1
+modified line in file1
